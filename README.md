@@ -30,10 +30,7 @@
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 
   ### 🔥 **Application**
-    #### Backend of the Tindev application. A tinder for developers.
-
-
-Write about 1-2 paragraphs describing the purpose of your project.
+    #### frontend of the Tindev application. A tinder for developers.
 
 
 # 🏁 Getting Started <a name = "getting_started"></a>
